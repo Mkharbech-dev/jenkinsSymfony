@@ -54,7 +54,7 @@
     },
     "config": {
         "platform": {
-
+            "php": "7.1.99"
         },
         "optimize-autoloader": true,
         "sort-packages": true
@@ -92,7 +92,7 @@
         "phpunit-bridge": {
             "options": {"symlink": false},
             "type": "path",
-            "url": "C:\\Users\\amine\\Desktop\\docs_Jenkins\\demo_app\\vendor\\symfony\\phpunit-bridge"
+            "url": "C:\\Users\\salah\\Desktop\\jenkins_gk\\demo_symfony_test\\vendor\\symfony\\phpunit-bridge"
         }
     }
 }
