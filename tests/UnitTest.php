@@ -14,6 +14,7 @@ class UnitTest extends TestCase
 
         $this->assertTrue($demo->getDemo() === 'demo');
     }
+    ###
 
     public function test2Demo()
     {
